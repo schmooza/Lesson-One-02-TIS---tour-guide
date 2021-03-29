@@ -1,0 +1,31 @@
+Goals
+
+Take a walk around the school. 
+
+Use the blue gates. 
+
+Don't walk through walls or fences.
+
+Return to the design room. 
+
+# coders need to find information about code all the time. 
+
+Go here to see more.
+https://docs.python.org/3/library/turtle.html#turtle.forward
+
+
+1) change this code
+you.forward(10)
+
+to 
+
+you.forward(50)
+
+what happens?
+
+2) navigate around the school.
+
+3) bonus, change the background image and player image. These must be .gif files. 
+
+upload the new file and see what happens. 
+
